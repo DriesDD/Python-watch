@@ -1,6 +1,6 @@
 # Python-watch
 
-This is a 20-minute presentation introducing the amazing language of python, given to the web dev class at BeCode. For this presentation the audience to be familiar with html, any logic-based programming language, use of the terminal, and the concept of a web framework (laravel/symphony/RoR...)
+This is a 20-minute presentation introducing the amazing language of python, given to the web dev class at BeCode. For this presentation the audience is to be familiar with html, any logic-based programming language, use of the terminal, and the concept of a web framework (laravel/symphony/RoR...)
 
 ## Script for the watch:
 
