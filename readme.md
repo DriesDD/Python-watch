@@ -12,5 +12,5 @@ This is a 20-minute presentation introducing the amazing language of python, giv
  - run evomatrix.py and show the part of the code where Tkinter allows you to create a window and draw in it
  - explain use of python for web development: run webapps.py as a 'hello world' python web app made with flask and show the code
  - run flask site from the 'pythons/main.py' with use of sections and extend
- - mention other powerful web dev uses of python without demonstration: django as a fully fledged framework, selenium for a headless web browser
+ - mention other powerful web dev uses of python without demonstration: django as a fully fledged framework, selenium for automation in a headless web browser
  - questions and discussion
